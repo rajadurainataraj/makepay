@@ -1,7 +1,7 @@
-import { Button } from "./Button.styles";
+import { Button } from "./Button.styles"
 
 function PrimaryButton({ children }) {
-  return <Button>{children}</Button>;
+  return <Button>{children}</Button>
 }
-
-export default PrimaryButton;
+//primary
+export default PrimaryButton
